@@ -1,0 +1,13 @@
+
+
+.winner{
+    color:green;
+}
+.loser{
+    color:red;
+}
+#playto{
+    border-radius: 30%;
+    padding:5px;
+}
+
